@@ -9,7 +9,7 @@ namespace StackCounter
         //Adds doubles to stack
         void Push(double x);
         //Remove the top element in stack and return value
-        void Pop();
+        double Pop();
         //This will return the top stack without removing it
         double Top();
         //This will clear the stack

@@ -69,9 +69,9 @@ namespace StackCounter
             stack.Clear();
         }
 
-        public void Pop()
+        public double Pop()
         {
-            double pop = stack.Pop();
+            return stack.Pop();
         }
 
         public void Push(double x)

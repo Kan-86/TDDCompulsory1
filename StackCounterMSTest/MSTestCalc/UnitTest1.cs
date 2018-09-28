@@ -31,7 +31,7 @@ namespace MSTestCalc
             calc.StackNumbers();
             calc.Pop();
             Assert.AreEqual(2, calc.stack.Count);
-            Assert.IsTrue(calc.stack.Contains(50));
+            Assert.AreEqual(40, calc.stack.Peek());
         }
 
         [TestMethod]
