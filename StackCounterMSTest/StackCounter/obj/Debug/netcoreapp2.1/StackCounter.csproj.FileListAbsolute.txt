@@ -1,0 +1,9 @@
+C:\Users\ander\source\repos\StackCounterMSTest\StackCounter\bin\Debug\netcoreapp2.1\StackCounter.deps.json
+C:\Users\ander\source\repos\StackCounterMSTest\StackCounter\bin\Debug\netcoreapp2.1\StackCounter.dll
+C:\Users\ander\source\repos\StackCounterMSTest\StackCounter\bin\Debug\netcoreapp2.1\StackCounter.pdb
+C:\Users\ander\source\repos\StackCounterMSTest\StackCounter\obj\Debug\netcoreapp2.1\StackCounter.csprojAssemblyReference.cache
+C:\Users\ander\source\repos\StackCounterMSTest\StackCounter\obj\Debug\netcoreapp2.1\StackCounter.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\StackCounterMSTest\StackCounter\obj\Debug\netcoreapp2.1\StackCounter.AssemblyInfoInputs.cache
+C:\Users\ander\source\repos\StackCounterMSTest\StackCounter\obj\Debug\netcoreapp2.1\StackCounter.AssemblyInfo.cs
+C:\Users\ander\source\repos\StackCounterMSTest\StackCounter\obj\Debug\netcoreapp2.1\StackCounter.dll
+C:\Users\ander\source\repos\StackCounterMSTest\StackCounter\obj\Debug\netcoreapp2.1\StackCounter.pdb

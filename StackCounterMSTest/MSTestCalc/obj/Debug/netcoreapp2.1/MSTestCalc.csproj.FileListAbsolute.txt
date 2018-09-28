@@ -1,0 +1,17 @@
+C:\Users\ander\source\repos\StackCounterMSTest\MSTestCalc\obj\Debug\netcoreapp2.1\MSTestCalc.csprojAssemblyReference.cache
+C:\Users\ander\source\repos\StackCounterMSTest\MSTestCalc\obj\Debug\netcoreapp2.1\MSTestCalc.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\StackCounterMSTest\MSTestCalc\obj\Debug\netcoreapp2.1\MSTestCalc.AssemblyInfoInputs.cache
+C:\Users\ander\source\repos\StackCounterMSTest\MSTestCalc\obj\Debug\netcoreapp2.1\MSTestCalc.AssemblyInfo.cs
+C:\Users\ander\source\repos\StackCounterMSTest\MSTestCalc\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ander\source\repos\StackCounterMSTest\MSTestCalc\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ander\source\repos\StackCounterMSTest\MSTestCalc\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ander\source\repos\StackCounterMSTest\MSTestCalc\bin\Debug\netcoreapp2.1\MSTestCalc.deps.json
+C:\Users\ander\source\repos\StackCounterMSTest\MSTestCalc\bin\Debug\netcoreapp2.1\MSTestCalc.runtimeconfig.json
+C:\Users\ander\source\repos\StackCounterMSTest\MSTestCalc\bin\Debug\netcoreapp2.1\MSTestCalc.runtimeconfig.dev.json
+C:\Users\ander\source\repos\StackCounterMSTest\MSTestCalc\bin\Debug\netcoreapp2.1\MSTestCalc.dll
+C:\Users\ander\source\repos\StackCounterMSTest\MSTestCalc\bin\Debug\netcoreapp2.1\MSTestCalc.pdb
+C:\Users\ander\source\repos\StackCounterMSTest\MSTestCalc\bin\Debug\netcoreapp2.1\StackCounter.dll
+C:\Users\ander\source\repos\StackCounterMSTest\MSTestCalc\bin\Debug\netcoreapp2.1\StackCounter.pdb
+C:\Users\ander\source\repos\StackCounterMSTest\MSTestCalc\obj\Debug\netcoreapp2.1\MSTestCalc.csproj.CopyComplete
+C:\Users\ander\source\repos\StackCounterMSTest\MSTestCalc\obj\Debug\netcoreapp2.1\MSTestCalc.dll
+C:\Users\ander\source\repos\StackCounterMSTest\MSTestCalc\obj\Debug\netcoreapp2.1\MSTestCalc.pdb
